@@ -6,6 +6,6 @@ I'm a freshman at UC Irvine majoring in computer science & engineering !!
 
 Some things about me:
 - pronouns: she/her
-- studying python & java
+- studying python & java + web dev
 - interests: [music](https://open.spotify.com/user/9cdwehcsqi4900dplnjed6lbh?si=b747bfd8212f49e3), valorant, *creative writing*
 - hopes to go into AI in the future !!
