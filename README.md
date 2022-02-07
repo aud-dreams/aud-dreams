@@ -9,3 +9,4 @@ Some things about me:
 - studying python & java + web dev
 - interests: [music](https://open.spotify.com/user/9cdwehcsqi4900dplnjed6lbh?si=b747bfd8212f49e3), valorant, *creative writing*
 - hopes to go into AI in the future !!
+- visit my [website](https://aud-dreams.github.io/)!
