@@ -2,7 +2,7 @@
 
 ## Hello I'm Audrey Nguyen 🌸 
 
-I'm a freshman at UC Irvine majoring in computer science & engineering !!
+I'm a freshman at UC Irvine majoring in computer science !!
 
 Some things about me:
 - pronouns: she/her
