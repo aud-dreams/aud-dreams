@@ -2,11 +2,10 @@
 
 ## Hello I'm Audrey Nguyen 🌸 
 
-I'm a sophomore at UC Irvine majoring in computer science !!
+I'm an incoming junior at UC Irvine majoring in computer science !!
 
 Some things about me:
 - pronouns: she/her
-- studying python, C++, and web dev
-- interests: [music](https://open.spotify.com/user/9cdwehcsqi4900dplnjed6lbh?si=b747bfd8212f49e3), valorant, *creative writing*
-- hopes to go into AI in the future !!
+- interests: data science, machine learning/AI, full-stack
+- pursuing Masters' degree in Intelligent Systems
 - visit my [website](https://aud-dreams.github.io/)!
