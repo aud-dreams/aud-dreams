@@ -6,4 +6,4 @@ I'm a Junior pursuing my Bachelor of Science in Computer Science at UC Irvine, w
 
 I'm open to internships and other opportunities! Feel free to contact me at audrehn3@uci.edu.
 
-Visit my [website](https://aud-dreams.github.io/)!
+Visit my [website](https://audreynguyen.dev/)!
