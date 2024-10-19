@@ -2,7 +2,11 @@
 
 ## Hello I'm Audrey Nguyen 🌸
 
-I am pursuing a Master's degree in Computer Science at the University of California, Irvine. This spring, I recently acquired my B.S. in Computer Science at UCI with a specialization in Intelligent Systems. Currently I am developing my skills as a Backend Engineer Intern at First American. I enjoy participating and mentoring for hackathons during my free time, and exploring the intersection between learning analytics and gamification through EdTech research.
+I am currently pursuing a Master's degree in Computer Science at UC Irvine. During my undergraduate studies at UCI, I specialized in intelligent systems and explored the intersection between learning analytics and gamification through EdTech research.
+
+I am working part-time as a Backend Engineer Intern for First American, where I integrate machine learning models with cloud infrastructure.
+
+In my free time, I enjoy participating and mentoring for hackathons, trying new cafes, gyming, and playing pickleball.
 
 I'm open to internships and other opportunities! Feel free to contact me at audrehn3@uci.edu.
 
