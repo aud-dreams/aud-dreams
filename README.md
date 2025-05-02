@@ -4,9 +4,9 @@
 
 I am currently pursuing a Master's degree in Computer Science at UC Irvine. During my undergraduate studies at UCI, I specialized in intelligent systems and explored the intersection between learning analytics and gamification through EdTech research.
 
-I am working part-time as a Backend Engineer Intern for First American, where I integrate machine learning models with cloud infrastructure.
+I am also a part-time Data Science Intern at First American, where I integrate machine learning models with scalable cloud infrastructure and design data mining pipelines to extract actionable insights. My work focuses on enhancing predictive analytics to drive informed decision-making by business leaders.
 
-In my free time, I enjoy participating and mentoring for hackathons, trying new cafes, gyming, and playing pickleball.
+In my free time, I enjoy participating and mentoring for hackathons, cafe hopping, gyming, and playing pickleball.
 
 I'm open to internships and other opportunities! Feel free to contact me at audrehn3@uci.edu.
 
